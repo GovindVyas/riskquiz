@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "Does your floor plan show furniture placements??",
+    question: "Does your floor plan show furniture placements?",
     choice1: "Yes. I have a complete plan with floor placements",
     choice2: "I have a plan but it doesn't show the placement of furniture.",
     choice3: "I will do it myself. ",
@@ -103,7 +103,6 @@ let questions = [
     choice5: "Who writes all this here in small city?",
     answer: 4
   },
-  ,
   {
     question: "Is your Floor Plan developed by an architect?",
     choice1: "I hired an architect ",
